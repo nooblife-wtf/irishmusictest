@@ -1,0 +1,210 @@
+### Irish
+# General
+
+music = {
+	song = "the_foggy_dew"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+
+music = {
+	song = "soldierssong"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+
+music = {
+	song = "oro_abhaile"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+
+music = {
+	song = "rising_moon"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+
+music = {
+	song = "god_save_ireland"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+
+music = {
+	song = "nation_once_again"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+
+music = {
+	song = "danny_boy"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+
+music = {
+	song = "last_rose"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+
+music = {
+	song = "let_erin_remember"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+
+music = {
+	song = "odonnell_abu"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+music = {
+	song = "black_and_tans"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+music = {
+	song = "brits_get_out"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+music = {
+	song = "broad_black_brimmer"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+music = {
+	song = "celtic_symphony"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+music = {
+	song = "ireland_calls"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+music = {
+	song = "rocky_road"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+music = {
+	song = "the_old_feian_chief"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}
+music = {
+	song = "wearing_of_the_green"
+
+	chance = {
+		
+		modifier = {
+			factor = 2
+			
+		}
+	}
+}

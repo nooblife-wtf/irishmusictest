@@ -1,0 +1,121 @@
+####################################################################
+#####															#####
+#####						IRELAND					            #####
+#####															#####
+#####################################################################
+
+music = {
+	name = "the_foggy_dew"
+	file = "audio/ire_the_foggy_dew.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "soldierssong"
+	file = "audio/ire_soldierssong.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "oro_abhaile"
+	file = "audio/ire_oro_abhaile.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "god_save_ireland"
+	file = "audio/ire_god_save_ireland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rising_moon"
+	file = "audio/ire_rising_moon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "nation_once_again"
+	file = "audio/ire_nation_once_again.ogg"
+	volume = 0.50
+}
+
+music = {
+	name = "last_rose"
+	file = "audio/ire_last_rose.ogg"
+	volume = 0.90
+}
+
+music = {
+	name = "let_erin_remember"
+	file = "audio/ire_let_erin_remember.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "odonnell_abu"
+	file = "audio/ire_odonnell_abu.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "danny_boy"
+	file = "audio/ire_danny_boy.ogg"
+	volume = 0.60
+}
+music = {
+	name = "black_and_tans"
+	file = "audio\ire_black_and_tans.ogg"
+	volume = 0.65
+
+}
+music = {
+	name = "brits_get_out"
+	file = "audio\ire_brits_get_out.ogg"
+	
+	volume = 0.65
+
+}
+music = {
+	name = "broad_black_brimmer"
+	file = "audio\ire_broad_black_.ogg"
+	
+	volume = 0.65
+
+}
+music = {
+	name = "celtic_symphony"
+	file = "audio\ire_celtic_symphony.ogg"
+	
+	volume = 0.65
+
+}
+music = {
+	name = "ireland_calls"
+	file = "audio\ire_ireland_calls.ogg"
+	
+	volume = 0.65
+
+}
+
+music = {
+	name = "rocky_road"
+	file = "audio\ire_rocky_road.ogg"
+	
+	volume = 0.65
+
+}
+music = {
+	name = "the_old_feian_chief"
+	file = "audio\ire_the_old_fenian_chief.ogg"
+	
+	volume = 0.65
+
+}
+music = {
+	name = "wearing_of_the_green"
+	file = "audio\ire_wearing_of_the_green.ogg"
+	
+	volume = 0.65
+
+}

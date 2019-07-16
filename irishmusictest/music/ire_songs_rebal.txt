@@ -1,0 +1,91 @@
+music_station = "rebal_country_radio"
+
+music = {
+	name = "the_foggy_dew"
+	
+}
+
+music = {
+	name = "soldierssong"
+	
+}
+
+music = {
+	name = "oro_abhaile"
+	
+}
+
+music = {
+	name = "god_save_ireland"
+	
+}
+
+music = {
+	name = "rising_moon"
+	
+}
+
+music = {
+	name = "nation_once_again"
+	
+}
+
+music = {
+	name = "last_rose"
+	
+}
+
+music = {
+	name = "let_erin_remember"
+	
+}
+
+music = {
+	name = "odonnell_abu"
+	
+}
+
+music = {
+	name = "danny_boy"
+	
+}
+music = {
+	name = "black_and_tans"
+	
+
+}
+music = {
+	name = "brits_get_out"
+	
+
+}
+music = {
+	name = "broad_black_brimmer"
+	
+
+}
+music = {
+	name = "celtic_symphony"
+	
+
+}
+music = {
+	name = "ireland_calls"
+	
+
+}
+
+music = {
+	name = "rocky_road"
+	
+
+}
+music = {
+	name = "the_old_feian_chief"
+	
+
+}
+music = {
+	name = "wearing_of_the_green"
+
+}
